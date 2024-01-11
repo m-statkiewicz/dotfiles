@@ -8,7 +8,7 @@ noremap <Right> <Nop>
 set noswapfile
 
 set undofile
-set undodir=%HOME/.config/nvim/undo
+set undodir=$HOME/.config/nvim/undo
 set undolevels=10000
 set undoreload=10000
 
